@@ -1,0 +1,20 @@
+# print("enter your name and age: ")
+# name=input()
+# age=int(input())
+# print("your name is: "+name+" your age is: "+str(age))
+
+# a=int(input())
+# b=int(input())
+# c=int(input())
+# mul=(a*b*c)
+# add=(a+b+c)
+# div = (mul/add)
+# print(round(div))
+
+
+name = input()
+score = int(input())
+dept = input()
+print("my name is: ",name)
+print("my score is: ",score/10," /10")
+print("my name is: ",dept)
